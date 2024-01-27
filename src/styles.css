@@ -4,8 +4,8 @@
 }
 
 body {
-  background: #333;
-  color: hsl(200, 100%, 90%);
+  background: #EEA47F;
+
   max-width: 400px;
   padding: 1rem;
   margin: 0 auto;
@@ -24,7 +24,7 @@ body {
 }
 
 .btn {
-  background: hsl(200, 100%, 50%, 0.1);
+  background: #FBEAEB
   border: 1px solid hsl(200, 100%, 50%);
   color: hsl(200, 100%, 50%);
   padding: 0.25em 0.5em;
@@ -52,7 +52,7 @@ body {
 .new-item-form input {
   outline: none;
   border: 1px solid hsl(200, 100%, 40%);
-  background: hsl(200, 100%, 30%);
+  background: #00539C;
   border-radius: 0.25em;
   padding: 0.25em 0.5em;
   color: hsl(200, 100%, 90%);
@@ -66,6 +66,7 @@ body {
   font-size: 1.5rem;
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
+  text-align: center;
 }
 
 .list {
